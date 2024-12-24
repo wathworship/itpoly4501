@@ -2,7 +2,7 @@
   "name": "itpoly_web4501",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/wathworship/itpoly4501.git",
+  "homepage": "https://wathworship.github.io/itpoly4501/",
 
   "dependencies": {
     "bootstrap": "^5.3.3",
